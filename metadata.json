@@ -1,0 +1,6 @@
+{
+  "name": "KIPS College Management",
+  "description": "Modern and professional college management portal for KIPS College, featuring student and course administration powered by Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
